@@ -97,3 +97,13 @@ D:\c-Extension-Methods\ExtensionMethods.Tests\ExtensionMethods.Tests\obj\Debug\n
 D:\c-Extension-Methods\ExtensionMethods.Tests\ExtensionMethods.Tests\obj\Debug\net6.0\ExtensionMethods.Tests.pdb
 D:\c-Extension-Methods\ExtensionMethods.Tests\ExtensionMethods.Tests\obj\Debug\net6.0\ExtensionMethods.Tests.genruntimeconfig.cache
 D:\c-Extension-Methods\ExtensionMethods.Tests\ExtensionMethods.Tests\obj\Debug\net6.0\ref\ExtensionMethods.Tests.dll
+D:\c-Extension-Methods\ExtensionMethods.Tests\ExtensionMethods.Tests\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\c-Extension-Methods\ExtensionMethods.Tests\ExtensionMethods.Tests\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\c-Extension-Methods\ExtensionMethods.Tests\ExtensionMethods.Tests\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\c-Extension-Methods\ExtensionMethods.Tests\ExtensionMethods.Tests\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\c-Extension-Methods\ExtensionMethods.Tests\ExtensionMethods.Tests\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\c-Extension-Methods\ExtensionMethods.Tests\ExtensionMethods.Tests\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\c-Extension-Methods\ExtensionMethods.Tests\ExtensionMethods.Tests\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\c-Extension-Methods\ExtensionMethods.Tests\ExtensionMethods.Tests\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\c-Extension-Methods\ExtensionMethods.Tests\ExtensionMethods.Tests\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\c-Extension-Methods\ExtensionMethods.Tests\ExtensionMethods.Tests\bin\Debug\net6.0\CoverletSourceRootsMapping

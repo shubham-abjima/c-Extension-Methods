@@ -3,7 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethods.Tests", "ExtensionMethods.Tests\ExtensionMethods.Tests.csproj", "{0745FCFB-EDF6-40C9-AD46-C97DEE0FD426}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtensionMethods.Tests", "ExtensionMethods.Tests\ExtensionMethods.Tests.csproj", "{0745FCFB-EDF6-40C9-AD46-C97DEE0FD426}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtensionMethods.Library", "ExtensionMethods.Library\ExtensionMethods.Library.csproj", "{F3A29591-C972-44D9-A305-48E0F44609BC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtensionMethods.Shared", "ExtensionMethods.Shared\ExtensionMethods.Shared.csproj", "{3ACF52EB-9F15-4810-BEFB-A8F98027C791}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Demo1", "Demo1", "{39BF960D-3EB2-4A56-9410-E7F35C8627DB}"
+	ProjectSection(SolutionItems) = preProject
+		Program.cs = Program.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Demo2", "Demo2", "{607F226F-2B0A-4668-895A-E0F0BCE44ECE}"
+	ProjectSection(SolutionItems) = preProject
+		Envelope.cs = Envelope.cs
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +29,14 @@ Global
 		{0745FCFB-EDF6-40C9-AD46-C97DEE0FD426}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0745FCFB-EDF6-40C9-AD46-C97DEE0FD426}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0745FCFB-EDF6-40C9-AD46-C97DEE0FD426}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3A29591-C972-44D9-A305-48E0F44609BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3A29591-C972-44D9-A305-48E0F44609BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3A29591-C972-44D9-A305-48E0F44609BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3A29591-C972-44D9-A305-48E0F44609BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ACF52EB-9F15-4810-BEFB-A8F98027C791}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ACF52EB-9F15-4810-BEFB-A8F98027C791}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ACF52EB-9F15-4810-BEFB-A8F98027C791}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ACF52EB-9F15-4810-BEFB-A8F98027C791}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

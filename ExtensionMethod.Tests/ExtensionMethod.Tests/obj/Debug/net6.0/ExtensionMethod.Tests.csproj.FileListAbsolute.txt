@@ -1,0 +1,5 @@
+D:\c-Extension-Methods\ExtensionMethod.Tests\ExtensionMethod.Tests\obj\Debug\net6.0\ExtensionMethod.Tests.csproj.AssemblyReference.cache
+D:\c-Extension-Methods\ExtensionMethod.Tests\ExtensionMethod.Tests\obj\Debug\net6.0\ExtensionMethod.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\c-Extension-Methods\ExtensionMethod.Tests\ExtensionMethod.Tests\obj\Debug\net6.0\ExtensionMethod.Tests.AssemblyInfoInputs.cache
+D:\c-Extension-Methods\ExtensionMethod.Tests\ExtensionMethod.Tests\obj\Debug\net6.0\ExtensionMethod.Tests.AssemblyInfo.cs
+D:\c-Extension-Methods\ExtensionMethod.Tests\ExtensionMethod.Tests\obj\Debug\net6.0\ExtensionMethod.Tests.csproj.CoreCompileInputs.cache

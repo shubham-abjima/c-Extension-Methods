@@ -1,0 +1,12 @@
+D:\c-Extension-Methods\ExtensionMethods.Tests\ExtensionMethods.Library\bin\Debug\net6.0\ExtensionMethods.Library.deps.json
+D:\c-Extension-Methods\ExtensionMethods.Tests\ExtensionMethods.Library\bin\Debug\net6.0\ExtensionMethods.Library.dll
+D:\c-Extension-Methods\ExtensionMethods.Tests\ExtensionMethods.Library\bin\Debug\net6.0\ExtensionMethods.Library.pdb
+D:\c-Extension-Methods\ExtensionMethods.Tests\ExtensionMethods.Library\obj\Debug\net6.0\ExtensionMethods.Library.csproj.AssemblyReference.cache
+D:\c-Extension-Methods\ExtensionMethods.Tests\ExtensionMethods.Library\obj\Debug\net6.0\ExtensionMethods.Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\c-Extension-Methods\ExtensionMethods.Tests\ExtensionMethods.Library\obj\Debug\net6.0\ExtensionMethods.Library.AssemblyInfoInputs.cache
+D:\c-Extension-Methods\ExtensionMethods.Tests\ExtensionMethods.Library\obj\Debug\net6.0\ExtensionMethods.Library.AssemblyInfo.cs
+D:\c-Extension-Methods\ExtensionMethods.Tests\ExtensionMethods.Library\obj\Debug\net6.0\ExtensionMethods.Library.csproj.CoreCompileInputs.cache
+D:\c-Extension-Methods\ExtensionMethods.Tests\ExtensionMethods.Library\obj\Debug\net6.0\ExtensionMethods.Library.dll
+D:\c-Extension-Methods\ExtensionMethods.Tests\ExtensionMethods.Library\obj\Debug\net6.0\refint\ExtensionMethods.Library.dll
+D:\c-Extension-Methods\ExtensionMethods.Tests\ExtensionMethods.Library\obj\Debug\net6.0\ExtensionMethods.Library.pdb
+D:\c-Extension-Methods\ExtensionMethods.Tests\ExtensionMethods.Library\obj\Debug\net6.0\ref\ExtensionMethods.Library.dll
